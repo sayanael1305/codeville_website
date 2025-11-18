@@ -106,7 +106,7 @@ button:hover {
 
 .indice{
   border: 3px solid var(--color2);
-  background-color: var(--color4);
+  background-color: rgb(29, 107, 114);
   color: white;
   border-radius: 5px;
   text-align: center;
